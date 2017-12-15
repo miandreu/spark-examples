@@ -1,7 +1,7 @@
 /**
  * Illustrates a wordcount in Java
  */
-package com.oreilly.learningsparkexamples.mini.java;
+package com.miquel.learningsparkexamples.mini.java;
 
 import java.util.Arrays;
 import java.util.List;

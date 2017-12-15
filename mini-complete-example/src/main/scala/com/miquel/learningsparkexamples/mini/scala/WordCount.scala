@@ -1,7 +1,7 @@
 /**
  * Illustrates flatMap + countByValue for wordcount.
  */
-package com.oreilly.learningsparkexamples.mini.scala
+package com.miquel.learningsparkexamples.mini.scala
 
 import org.apache.spark._
 import org.apache.spark.SparkContext._

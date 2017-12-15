@@ -1,7 +1,7 @@
 /**
  * Illustrates a simple map in Scala
  */
-package com.oreilly.learningsparkexamples.scala
+package com.miquel.learningsparkexamples.scala
 
 import org.apache.spark._
 
